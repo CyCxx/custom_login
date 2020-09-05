@@ -162,7 +162,7 @@ iframe {
   margin: 0 auto;
 }
 
-.container-login100 {
+.container-login-cust {
   width: 100%;    
   display: -webkit-box;
   display: -webkit-flex;
@@ -178,7 +178,7 @@ iframe {
   background-size: cover;
 }
 
-.wrap-login100 {
+.wrap-login-cust {
   width: 500px;
   background: #fff;
   border-radius: 10px;
@@ -189,11 +189,11 @@ iframe {
 /*------------------------------------------------------------------
 [ Form ]*/
 
-.login100-form {
+.login-cust-form {
   width: 100%;
 }
 
-.login100-form-title {
+.login-cust-form-title {
   display: block;
   font-family: Poppins-Bold;
   font-size: 39px;
@@ -202,7 +202,7 @@ iframe {
   text-align: center;
 }
 
-.login100-form-avatar {
+.login-cust-form-avatar {
 	display: block;
 	width: 220px;
 	height: 60px;
@@ -211,7 +211,7 @@ iframe {
 	margin: 0 auto;
 }
 
-	.login100-form-avatar img {
+	.login-cust-form-avatar img {
 		width: 100%;
 		
 	}
@@ -315,7 +315,7 @@ iframe {
 
 /*------------------------------------------------------------------
 [ Button ]*/
-.container-login100-form-btn {
+.container-login-cust-form-btn {
   display: -webkit-box;
   display: -webkit-flex;
   display: -moz-box;
@@ -325,7 +325,7 @@ iframe {
   justify-content: center;
 }
 
-.wrap-login100-form-btn {
+.wrap-login-cust-form-btn {
   width: 70%;
   display: block;
   position: relative;
@@ -337,7 +337,7 @@ iframe {
 
 }
 
-.login100-form-bgbtn {
+.login-cust-form-bgbtn {
 	position: absolute;
 	z-index: -1;
 	width: 300%;
@@ -355,7 +355,7 @@ iframe {
 	transition: all 0.4s;
 }
 
-.login100-form-btn {
+.login-cust-form-btn {
   font-family: Poppins-Medium;
   font-size: 16px;
   color: #fff;
@@ -374,7 +374,7 @@ iframe {
   height: 50px;
 }
 
-.wrap-login100-form-btn:hover .login100-form-bgbtn {
+.wrap-login-cust-form-btn:hover .login-cust-form-bgbtn {
   left: 0;
 }
 
@@ -384,7 +384,7 @@ iframe {
 [ Responsive ]*/
 
 @media (max-width: 576px) {
-  .wrap-login100 {
+  .wrap-login-cust {
     padding-left: 15px;
     padding-right: 15px;
   }

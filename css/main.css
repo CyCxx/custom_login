@@ -195,8 +195,7 @@ iframe {
 
 .login-cust-form-title {
   display: block;
-  font-family: Poppins-Bold;
-  font-size: 39px;
+  font-family: Poppins-Bold;  
   color: #333333;
   line-height: 1.2;
   text-align: center;
@@ -205,14 +204,14 @@ iframe {
 .login-cust-form-avatar {
 	display: block;
 	width: 220px;
-	height: 60px;
+	
 	
 	overflow: hidden;
 	margin: 0 auto;
 }
 
 	.login-cust-form-avatar img {
-		width: 100%;
+		width: 90%;
 		
 	}
 
@@ -236,13 +235,13 @@ iframe {
 
 .input100 {
   font-family: Poppins-Medium;
-  font-size: 16px;
+  font-size: 12px;
   color: #333333;
   line-height: 1.2;
 
   display: block;
   width: 100%;
-  height: 55px;
+  height: 35px;
   background: transparent;
   padding: 0 7px 0 43px;
 }
@@ -371,7 +370,7 @@ iframe {
   align-items: center;
   padding: 0 20px;
   width: 100%;
-  height: 50px;
+  height: 35px;
 }
 
 .wrap-login-cust-form-btn:hover .login-cust-form-bgbtn {

@@ -60,7 +60,7 @@ a:focus {
 
 a:hover {
 	text-decoration: none;
-  color: #a64bf4;
+  color: #00aeef;
 }
 
 /*---------------------------------------------*/
@@ -304,11 +304,11 @@ iframe {
 }
 
 .input100:focus + .focus-input100::after {
-  color: #a64bf4;
+  color: #00aeef;
 }
 
 .has-val.input100 + .focus-input100::after {
-  color: #a64bf4;
+  color: #00aeef;
 }
 
 
@@ -325,7 +325,7 @@ iframe {
 }
 
 .wrap-login-cust-form-btn {
-  width: 70%;
+  width: 60%;
   display: block;
   position: relative;
   z-index: 1;
@@ -341,7 +341,7 @@ iframe {
 	z-index: -1;
 	width: 300%;
 	height: 100%;
-	background: #a64bf4;
+	background: #00aeef;
 	background: -webkit-linear-gradient(right, #2600de, #2c00ff, #00a0de, #1d40cc); 
 	background: -moz-linear-gradient(right, #2600de, #2c00ff, #00a0de, #1d40cc) ;
 	background: -moz-linear-gradient(right, #2600de, #2c00ff, #00a0de, #1d40cc) ;
